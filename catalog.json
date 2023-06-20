@@ -13,7 +13,8 @@
 			"45"
 		],
 		"about": "The future of basketball is positionless, and nobody embodies this evolution like MVP Giannis Antetokounmpo. The Giannis Immortality is a game shoe for players who love Giannis' multidimensional game and want a piece of his freaky style.",
-		"rating": 9.4
+		"rating": 9.4,
+		"segment": "hit"
 	},
 	{
 		"id": "el2",
@@ -29,7 +30,8 @@
 			"45"
 		],
 		"about": "Whether you’re a dunk contest-like leaper or a below-the-rim wonder roaming the baseline, feel faster, lower to the court and assured in the LeBron NXXT Gen. We specifically tailored it to meet the demands of today’s fast-paced game, so that you can stay ahead of the opposition with your speed and force in all directions.",
-		"rating": 7.8
+		"rating": 7.8,
+		"segment": "hit"
 	},
 	{
 		"id": "el3",
@@ -45,7 +47,8 @@
 			"45"
 		],
 		"about": " Level up your game on both ends of the floor in the Nike Renew Elevate 3. Specifically tuned for 2-way players who want to make an impact offensively and defensively, this shoe helps you optimize your ability with all-game, all-season support and stability. Improved traction and arch support enhance cutting and pivoting, which can make the difference down the stretch.",
-		"rating": 9.4
+		"rating": 9.4,
+		"segment": "hit"
 	},
 	{
 		"id": "el4",
@@ -61,7 +64,8 @@
 			"45"
 		],
 		"about": "The Nike Renew Retaliation TR 3 takes containment a step further with arc-shaped support on a redesigned sole. Soft, springy foam keeps it comfortable as you move through class-based workouts. The laces anchor to supports that hold your midfoot down securely during cardio, bodyweight moves and everything in between.",
-		"rating": 8.7
+		"rating": 8.7,
+		"segment": "hit"
 	},
 	{
 		"id": "el5",
@@ -77,7 +81,8 @@
 			"45"
 		],
 		"about": "Praised by the streets for its classic simplicity and comfort, the Nike Blazer Low 77 Vintage returns with its low-profile style and heritage b-ball looks. Featuring luscious suede details, a retro Swoosh design and a super-soft collar, it s the must-have wardrobe staple that will take you everywhere.",
-		"rating": 9.3
+		"rating": 9.3,
+		"segment": "hit"
 	},
 	{
 		"id": "el6",
@@ -93,7 +98,8 @@
 			"45"
 		],
 		"about": "Take your love for the game with you wherever you go. Crossing hardwood comfort with off-court flair, these kicks put a fresh spin on a hoops classic with basketball-inspired Swoosh logos and a woven net-inspired upper. Of course, we kept the same era-echoing 80s construction and hidden Air units you know and love for that legendary AF1 feel. Go ahead, slip into a slam dunk.",
-		"rating": 9
+		"rating": 9,
+		"segment": "hit"
 	},
 	{
 		"id": "el7",
@@ -109,7 +115,8 @@
 			"45"
 		],
 		"about": "Created for the hardwood but taken to the streets, the 80s b-ball icon returns with perfectly shined overlays and classic team colors. With its iconic hoops design, the Nike Dunk Low channels 80s vintage back onto the streets while its padded, low-cut collar lets you take your game anywhere—in comfort.",
-		"rating": 9.5
+		"rating": 9.5,
+		"segment": "hit"
 	},
 	{
 		"id": "el8",
@@ -125,7 +132,8 @@
 			"45"
 		],
 		"about": "Designed in partnership with individuals from the Haudenosaunee Confederacy and Ojibwe communities, every detail is purposefully crafted. Up top, vibrant and intricate embroidery reflects traditional motifs from the Great Lakes and Woodlands regions. The Dunk was the perfect backdrop, letting us collaborate with Indigenous artists from these communities to highlight a graphic expression that culturally appreciates them, says footwear material designer Nico Verburgt (Ojibwe).",
-		"rating": 8.7
+		"rating": 8.7,
+		"segment": "hit"
 	},
 	{
 		"id": "el9",
@@ -141,7 +149,8 @@
 			"45"
 		],
 		"about": "Created for the hardwood but taken to the streets, this 80s b-ball icon returns with classic details and throwback hoops flair. Supple leather overlays help the Nike Dunk channel vintage style while its padded, low-cut collar lets you take your game anywhere—in comfort.",
-		"rating": 7.5
+		"rating": 7.5,
+		"segment": "hit"
 	},
 	{
 		"id": "el10",
@@ -157,6 +166,220 @@
 			"45"
 		],
 		"about": "Giannis is an incessant storm of stamina and skill that keeps coming at opponents for 4 quarters or more. The forward-thinking design of his latest signature shoe helps propel you down the court in a lightweight fit that moves with you. It can handle quick changes in direction on both sides of the floor, giving you side-to-side stability and multidirectional traction as you Euro step to the hoop.",
-		"rating": 8.5
+		"rating": 8.5,
+		"segment": "hit"
+	},
+	{
+		"id": "el11",
+		"name": "Nike Free",
+		"img": "https://i.ibb.co/PgdSZ19/wo1.webp",
+		"price": 8712,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "Made for short runs when you want a barefoot-like feel, the Nike Free Run 2018 feels super light and flexible. Its sock-like upper has more stretch yarns than previous versions, so it hugs your feet more than ever. The innovative sole has an updated construction, yet still expands and contracts with every movement.",
+		"rating": 9.2,
+		"segment": "w"
+	},
+	{
+		"id": "el12",
+		"name": "Nike Winflo",
+		"img": "https://i.ibb.co/XVwMFy0/wo2.webp",
+		"price": 12312,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "The Winflo 9 gives you the support you need to match your speed. It has a secure fit that helps keep your foot in place as the miles go by. We added plenty of foam through the midsole, giving you extra pep to every step. Lace up, lock in, win your goals.",
+		"rating": 9.5,
+		"segment": "w"
+	},
+	{
+		"id": "el13",
+		"name": "Nike Zoom",
+		"img": "https://i.ibb.co/18fWmBS/wo3.jpg",
+		"price": 12912,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "Bridge the gap between your weekend training run and race day in a durable design that can be deployed not just at the starting line of your favorite race, but in the days and months after your conquest. It offers comfort and reliability but with a propulsive sensation that ll help you feel fast and fresh.",
+		"rating": 8.6,
+		"segment": "w"
+	},
+	{
+		"id": "el14",
+		"name": "Nike Invincible",
+		"img": "https://i.ibb.co/2Mz9ycR/wo4.webp",
+		"price": 16000,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "With maximum cushioning to support every mile, the Invincible 3 gives you Nike Running's highest level of comfort underfoot to help you stay on your feet today, tomorrow and beyond. Designed to help keep you on the run, its super supportive and bouncy, so that you can propel down your preferred path and come back for your next run.",
+		"rating": 9.5,
+		"segment": "w"
+	},
+
+	{
+		"id": "el15",
+		"name": "Nike Pegasus",
+		"img": "https://i.ibb.co/vZN3nF8/wo5.webp",
+		"price": 14390,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "The Nike Pegasus Trail 4 GORE-TEX is made for those moments when you don't want to turn back, no matter what. Feel confident even in the most unforeseen weather conditions with waterproof GORE-TEX keeping you dry, so you can run harder for longer and take your wet run from the road to the trail without breaking stride.",
+		"rating": 9.8,
+		"segment": "w"
+	},
+	{
+		"id": "el16",
+		"name": "Nike Trail",
+		"img": "https://i.ibb.co/TkGjM2W/wo6.webp",
+		"price": 14390,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "It s time to get outside. Running is your daily ritual, taking you from road to trail as you seek out new routes and goals. With a supportive, springy feel, these trail runners can take you there and back again. Underfoot traction helps keep you going over rocky terrain while still providing a smooth ride for the road. Your trusted workhorse with wings is back and ready for an off-road adventure.",
+		"rating": 8.8,
+		"segment": "w"
+	},
+	{
+
+		"id": "el17",
+		"name": "Nike React",
+		"img": "https://i.ibb.co/Q6H6vj6/1men.webp",
+		"price": 111.97,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "Engineered to help you pursue your running goals in comfort, the Nike React Infinity Run Flyknit 3 remains one of our most tested shoes. Its breathable upper helps your feet feel contained but flexible while increased cushioning around the heel and ankle provides a supportive sensation",
+		"rating": 9,
+		"segment": "m"
+	},
+	{
+
+		"id": "el18",
+		"name": "Nike Invincible",
+		"img": "https://i.ibb.co/FzGj9RK/2men.webp",
+		"price": 180,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "With maximum cushioning to support every mile, the Invincible 3 gives you our highest level of comfort underfoot to help you stay on your feet today, tomorrow and beyond. Designed to help keep you on the run, it’s super supportive and bouncy, so that you can propel down your preferred",
+		"rating": 9.4,
+		"segment": "m"
+	},
+	{
+
+		"id": "el19",
+		"name": "Nike Force",
+		"img": "https://i.ibb.co/09T09yt/3men.jpg",
+		"price": 150,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "The radiance lives on in the Nike Air Force 1 Low Premium, the b-ball original that puts a fresh spin on what you know best: Stitched overlays, classic colors and the perfect amount of hoops style to make heads turn. Metallic silver accents add flash while a dusty, aged dark blue celebrates the legacy of LA workwear style.",
+		"rating": 8.6,
+		"segment": "m"
+	},
+	{
+
+		"id": "el20",
+		"name": "Air Jordan",
+		"img": "https://i.ibb.co/f4f170F/4men.webp",
+		"price": 124,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity.",
+		"rating": 8.9,
+		"segment": "m"
+	},
+	{
+
+		"id": "el21",
+		"name": "Air Low",
+		"img": "https://i.ibb.co/1qLJWMx/5men.webp",
+		"price": 110,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point.",
+		"rating": 9.3,
+		"segment": "m"
+	},
+	{
+
+		"id": "el22",
+		"name": "Air Retro",
+		"img": "https://i.ibb.co/dMqfyR1/6men.webp",
+		"price": 185,
+		"size": [
+			"40",
+			"41",
+			"42",
+			"43",
+			"44",
+			"45"
+		],
+		"about": "Let's cut to the chase—the AJ11 is all-time. MJ won 72 games and a title while wearing 'em. Now, the icon returns. From its slick patent leather mudguard to the frosted outsole, this Tinker Hatfield design brings the off-court allure. And for the final touch? ",
+		"rating": 9.8,
+		"segment": "m"
 	}
+
+
 ]
