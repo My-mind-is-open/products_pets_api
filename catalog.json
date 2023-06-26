@@ -46,7 +46,7 @@
 			"44",
 			"45"
 		],
-		"about": " Level up your game on both ends of the floor in the Nike Renew Elevate 3. Specifically tuned for 2-way players who want to make an impact offensively and defensively, this shoe helps you optimize your ability with all-game, all-season support and stability. Improved traction and arch support enhance cutting and pivoting, which can make the difference down the stretch.",
+		"about": " Level up your game on both ends of the floor in the Nike Renew Elevate 3. Specifically tuned for 2-way players who want to make an impact offensively and defensively, this shoe helps you optimize your ability with all-game, all-season support and stability. Improved traction and arch support enhance cutting and pivoting.",
 		"rating": 9.4,
 		"segment": "hit"
 	},
@@ -97,7 +97,7 @@
 			"44",
 			"45"
 		],
-		"about": "Take your love for the game with you wherever you go. Crossing hardwood comfort with off-court flair, these kicks put a fresh spin on a hoops classic with basketball-inspired Swoosh logos and a woven net-inspired upper. Of course, we kept the same era-echoing 80s construction and hidden Air units you know and love for that legendary AF1 feel. Go ahead, slip into a slam dunk.",
+		"about": "Take your love for the game with you wherever you go. Crossing hardwood comfort with off-court flair, these kicks put a fresh spin on a hoops classic with basketball-inspired Swoosh logos and a woven net-inspired upper. Of course, we kept the same era-echoing 80s construction and hidden Air units you know and love for that legendary AF1 feel.",
 		"rating": 9,
 		"segment": "hit"
 	},
@@ -131,7 +131,7 @@
 			"44",
 			"45"
 		],
-		"about": "Designed in partnership with individuals from the Haudenosaunee Confederacy and Ojibwe communities, every detail is purposefully crafted. Up top, vibrant and intricate embroidery reflects traditional motifs from the Great Lakes and Woodlands regions. The Dunk was the perfect backdrop, letting us collaborate with Indigenous artists from these communities to highlight a graphic expression that culturally appreciates them, says footwear material designer Nico Verburgt (Ojibwe).",
+		"about": "Designed in partnership with individuals from the Haudenosaunee Confederacy and Ojibwe communities, every detail is purposefully crafted. Up top, vibrant and intricate embroidery reflects traditional motifs from the Great Lakes and Woodlands regions. The Dunk was the perfect backdrop, letting us collabor.",
 		"rating": 8.7,
 		"segment": "hit"
 	},
@@ -277,7 +277,7 @@
 		"id": "el17",
 		"name": "Nike React",
 		"img": "https://i.ibb.co/QjbSMrN/1men.jpg",
-		"price": 111.97,
+		"price": 13200,
 		"size": [
 			"40",
 			"41",
@@ -295,7 +295,7 @@
 		"id": "el18",
 		"name": "Nike Invincible",
 		"img": "https://i.ibb.co/sq6R1xz/2men.jpg",
-		"price": 180,
+		"price": 9800,
 		"size": [
 			"40",
 			"41",
@@ -313,7 +313,7 @@
 		"id": "el19",
 		"name": "Nike Force",
 		"img": "https://i.ibb.co/DG1jQsZ/3men.jpg",
-		"price": 150,
+		"price": 9300,
 		"size": [
 			"40",
 			"41",
@@ -331,7 +331,7 @@
 		"id": "el20",
 		"name": "Air Jordan",
 		"img": "https://i.ibb.co/v4f1rMb/4men.jpg",
-		"price": 124,
+		"price": 11750,
 		"size": [
 			"40",
 			"41",
@@ -349,7 +349,7 @@
 		"id": "el21",
 		"name": "Air Low",
 		"img": "https://i.ibb.co/NYpP3hp/5men.jpg",
-		"price": 110,
+		"price": 10000,
 		"size": [
 			"40",
 			"41",
@@ -367,7 +367,7 @@
 		"id": "el22",
 		"name": "Air Retro",
 		"img": "https://i.ibb.co/QjbSMrN/1men.jpg",
-		"price": 185,
+		"price": 18300,
 		"size": [
 			"40",
 			"41",
